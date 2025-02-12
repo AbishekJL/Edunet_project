@@ -20,7 +20,7 @@ This project is a part of the IBM Edunet Foundation Cybersecurity internship, wh
 
 - `encryption.py`: Script for encoding secret messages into images.
 - `decryption.py`: Script for decoding hidden messages from images.
-- `Abishek_J_L.pptx`: PowerPoint presentation detailing the project.
+- `Steganography.pptx`: PowerPoint presentation detailing the project.
 - `encoded.jpg`: Sample encrypted image with a hidden message.
 
 ---
