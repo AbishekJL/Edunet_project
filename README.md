@@ -79,7 +79,7 @@ To copy or clone this repository to your local machine, use the following comman
 
 ```bash
 # Clone the repository
-git clone https://github.com/prasannareddy2804/Cyber-Security.git
+git clone https
 
 # Change directory to the cloned repository
 cd Cyber-Security
