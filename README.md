@@ -79,8 +79,8 @@ To copy or clone this repository to your local machine, use the following comman
 
 ```bash
 # Clone the repository
-git clone https
+git clone https://github.com/AbishekJL/Edunet_project.git
 
 # Change directory to the cloned repository
-cd Cyber-Security
+cd Edunet_Project
 
